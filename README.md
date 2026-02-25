@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me
+I'm Taiwo Damilare, a supply chain anlyst, Data Driven Decision Maker, Passionate about optimizing operation and improving supply chain performance.
+# Soft Skill
 
 <!--
 **dammy-portfolio/dammy-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
