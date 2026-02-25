@@ -1,18 +1,27 @@
 ## About Me
-I'm Taiwo Damilare, a supply chain anlyst, Data Driven Decision Maker, Passionate about optimizing operation and improving supply chain performance.
-# Soft Skill
-
-<!--
-**dammy-portfolio/dammy-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I'm Taiwo Damilare
+A Supply Chain Anlyst, Data Driven Decision Maker, i'm passionate about optimizing operation and improving supply chain performance. I specialize in analyzing supply chain data to improve efficiency, cost reduction and support strategic desision making.
+## Role
+Warehouse Specialist
+## Soft Skill
+*Problem Solving
+*Attention to details
+*Time Management
+*Teamwork
+## Technical Skill
+*Microsoft Excel
+*Power Bi
+*SQL
+## Career Goal
+* Grow into a Senior Supply Chain Analyst role or Opertaion Manager role
+* Lead end-to-end supply chain optimization projects
+* Continuosly develop skills in data analytic and automation
+* Contribute to sustainable supply chain initiatives
+* Mentor junior analyst and share best practice
+## Fun Fact
+* Always exploring new tools to automate reporting
+* I enjoy turning complex data into simple insights
+* I love improving processes and finding efficiency gaps
+## Contact
+LinkedIn: www.linkedin.com/in/taiwo-damilare
+Emmail: taiwodamilare3384@gmail.com
