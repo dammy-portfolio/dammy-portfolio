@@ -1,5 +1,4 @@
 ## About Me
-I'm Taiwo Damilare
 A Supply Chain Anlyst, Data Driven Decision Maker, i'm passionate about optimizing operation and improving supply chain performance. I specialize in analyzing supply chain data to improve efficiency, cost reduction and support strategic desision making.
 ## Role
 Warehouse Specialist
