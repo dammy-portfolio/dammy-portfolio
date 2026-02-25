@@ -24,4 +24,4 @@ Warehouse Specialist
 * I love improving processes and finding efficiency gaps
 ## Contact
 LinkedIn: www.linkedin.com/in/taiwo-damilare
-Emmail: taiwodamilare3384@gmail.com
+Email: taiwodamilare3384@gmail.com
