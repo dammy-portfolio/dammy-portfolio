@@ -22,5 +22,5 @@ Warehouse Specialist
 * I enjoy turning complex data into simple insights
 * I love improving processes and finding efficiency gaps
 ## Contact
-LinkedIn: www.linkedin.com/in/taiwo-damilare
-Email: taiwodamilare3384@gmail.com
+*LinkedIn: www.linkedin.com/in/taiwo-damilare
+*Email: taiwodamilare3384@gmail.com
